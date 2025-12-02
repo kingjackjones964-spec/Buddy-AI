@@ -1,31 +1,32 @@
-# 💬 Simple AI Chat Assistant | Powered by Gemini and Streamlit
+# 🍯 HoneyAI Chat Assistant | Powered by Gemini and Streamlit
 
 ## 🚀 Live App Link (App यहाँ इस्तेमाल करें)
 
-**[यहाँ अपनी Streamlit App का पूरा URL डालें]** (जैसे: https://your-username-repo.streamlit.app/)
+**[यहाँ अपनी Streamlit App का पूरा URL डालें]**
+उदाहरण: `https://kingjackjones964-spec-honeyai-chat-assistant-xxxxx.streamlit.app`
 
 ---
 
 ## ✨ Overview: What This App Does
 
-This is a simple and fast **AI Chat Assistant** built using the powerful **Google Gemini API** and the lightweight **Streamlit** framework. 
+यह एक **HoneyAI Chat Assistant** है, जो **हिंदी** और अंग्रेजी में तेज़ी से जवाब देने के लिए **Google Gemini API** का उपयोग करके बनाया गया है।
 
-* **⚡ Fast Responses:** Get instant answers to your questions.
-* **📚 Easy to Use:** A minimal, clean interface for a seamless chat experience.
-* **💯 Open Source:** The code is available here for anyone to use and learn from.
+* **⚡ Fast Responses:** तुरंत जवाब प्राप्त करें।
+* **📚 Easy to Use:** एक आसान और साफ इंटरफ़ेस (Interface) है।
+* **💯 Open Source:** कोड यहाँ उपलब्ध है, सीखने और उपयोग करने के लिए मुफ्त।
 
 ## ⚙️ Technology Stack
 
 * **Language:** Python
 * **Framework:** Streamlit
-* **AI Model:** Google Gemini
-* **Deployment:** Streamlit Community Cloud
+* **AI Model:** Google Gemini (Stable and powerful)
+* **Deployment:** Streamlit Community Cloud (Free Hosting)
 
 ---
 
 ## 🛠️ How to Use Locally
 
-1.  Clone this repository.
+1.  Clone this repository: `git clone https://github.com/kingjackjones964-spec/HoneyAI-Chat-Assistant.git`
 2.  Install dependencies: `pip install -r requirements.txt`
 3.  Set your Gemini API Key as an environment variable.
 4.  Run the app: `streamlit run chat_app.py`
